@@ -1,0 +1,21 @@
+################################################################################
+#
+# License File: 121137
+# Customer:     Robert Bosch GmbH
+# End Customer: Robert Bosch GmbH
+#
+################################################################################
+### License No.: 675730
+
+Product CarMaker
+        SerialNo        675730
+        Version         13.0
+        Feature         pro car mcycle
+        LicServer       vmsilprod sysid 307200096 ether 00:0D:3A:26:77:E3
+        MaxUsers        50
+        Expiration      2024-12-31
+        Password        01E9-5A01-44I7
+
+################################################################################
+
+
